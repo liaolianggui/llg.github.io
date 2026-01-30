@@ -19,9 +19,7 @@ redirect_from:
 
 ## About me
 
-Zhaohui Zheng is currently a postdoctoral fellow at the HK PolyU, working on Visual-Language Models and object detection with Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
-Before that, he received his Ph.D. from Nankai University in 2025 under the supervision of Prof. [Ming-Ming Cheng](https://mmcheng.net/), and his M.S. degree in computational mathematics from Tianjin University in 2021 under the supervision of Prof. Ping Wang.
-He received the CCF-CV Academic Emerging Scholar Award in 2023.
+Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [youshu li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor Wang Chan; and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
 ## Professional Experience
@@ -163,6 +161,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
