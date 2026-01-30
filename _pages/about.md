@@ -48,7 +48,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Environmental, social and governance assets: quality of public firm exports</h4>   
-  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Youshu Li</p> 
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b>, Youshu Li</p> 
   <p style="line-height:15px">Environment International, 2025</p>   
   <p style="line-height:15px"> <a href="https://www.emerald.com/md/article-abstract/doi/10.1108/MD-03-2025-0590/1316486/Environmental-social-and-governance-assets-quality?redirectedFrom=fulltext">[Paper Website]</a> <a href="https://www.emerald.com/md">[Journal Website]</a> </p>   
   </sub>
@@ -101,10 +101,10 @@ See my recent publications for more details.
 ## Working Paper 
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Distance-IoU loss: Faster and better learning for bounding box regression</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, Dongwei Ren#</p> 
-  <p style="line-height:15px">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020</p>   
-  <p style="line-height:15px"> <a href="https://doi.org/10.1609/aaai.v34i07.6999">[Arxiv]</a> <a href="https://github.com/Zzh-tju/DIoU">[Code]</a> <b>Most influential AAAI 2020 paper, Top-2</b> <a href="https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/">[Paper digest]</a> </p>   
+  <h4>From air pollution governance to health and equity: Evidence from China</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
+  <p style="line-height:15px">Environment and Development Economics, Minor Revision</p>   
+  <p style="line-height:15px"> <a href="">[Arxiv]</a> <a href="https://github.com/Zzh-tju/DIoU">[Code]</a> <a href="https://www.cambridge.org/core/journals/environment-and-development-economics">[Paper Website]</a> </p>   
   </sub>
 </blockquote>
 
@@ -184,6 +184,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
