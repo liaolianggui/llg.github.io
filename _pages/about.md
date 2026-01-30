@@ -56,24 +56,19 @@ See my recent publications for more details.
 
 ## Collaborator
 
-+ Ming-Ming Cheng, Nankai University
-+ Qibin Hou, Nankai University
-+ Xiang Li, Nankai University
-+ Chenyu Ming, Nankai University
-+ Jiabao Wang, Nankai University
-+ Yuxuan Li, Nankai University
++ Youshu Li, Sichuan University
++ Xinwu Li, Nankai University
++ Bin Chen, Beijing Normal University
+
++ Pu-yan Nie, Guangdong University of Finance and Economics
++ Chan Wang, Guangdong University of Finance and Economics
   
-+ Jian Yang, Nanjing University of Science and Technology
++ Yixiang Bai, Jinan University
   
-+ Wangmeng Zuo, Harbin Institute of Technology
-+ Dongwei Ren, Harbin Institute of Technology
++ Hongxin Wen, Hunan University of Agriculture
   
-+ Qinghua Hu, Tianjin University
-+ Ping Wang, Tianjin University
-+ Rongguang Ye, Tianjin University
-+ Wei Liu, Tianjin University
-  
-+ Jinze Li, People’s Public Security University of China
++ Lin Liu, Northwest Minzu University
+
 
 <span class='anchor' id='-pub'></span>
 
@@ -159,6 +154,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
