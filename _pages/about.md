@@ -109,34 +109,18 @@ See my recent publications for more details.
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Localization distillation for dense object detection</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>*, Rongguang Ye*, Ping Wang, Dongwei Ren, Wangmeng Zuo, Qibin Hou#, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>   
-  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Localization_Distillation_for_Dense_Object_Detection_CVPR_2022_paper.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD">[Code]</a></p>   
+  <h4>From Compliance to Capability: How Environmental Certification Drives Corporate ESG Transformation</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
+  <p style="line-height:15px">Energy & Environment, Minor Revision</p>   
+  <p style="line-height:15px"> <a href="https://uk.sagepub.com/en-gb/asi/energy-environment/journal202462?_gl=1%2A16bgx3p%2A_gcl_au%2AMTA3ODE4ODcxOC4xNzYyOTY4OTQw%2A_ga%2AODkwNDA2MjA0LjE3NjI5Njg5NDA.%2A_ga_60R758KFDG%2AczE3Njk3OTU3OTckbzE4NyRnMSR0MTc2OTc5NTgxNSRqNTkkbDAkaDEyMjA5MDQ4MDc">[Paper Website]</a> </p>   
   </sub>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection</h4>   
-  <sub><p style="line-height:15px"> Jiabao Wang*, Yuming Chen*, <b>Zhaohui Zheng</b>, Xiang Li, Ming-Ming Cheng, Qibin Hou#</p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
-  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_CrossKD_Cross-Head_Knowledge_Distillation_for_Object_Detection_CVPR_2024_paper.html">[Arxiv]</a> <a href="https://github.com/jbwang1997/CrossKD">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Large selective kernel network for remote sensing object detection</h4>   
-  <sub><p style="line-height:15px"> Yuxuan Li, Qibin Hou, <b>Zhaohui Zheng</b>, Ming-Ming Cheng, Jian Yang#, Xiang Li#</p> 
-  <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2023</p>   
-  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.html">[Arxiv]</a> <a href="https://github.com/VCIP-RGBD/DFormer">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
-  <sub><p style="line-height:15px"> Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, Qibin Hou#, Ming-Ming Cheng#</p> 
-  <p style="line-height:15px">AAAI, 2026</p>  
-  <p style="line-height:15px"> <a href="https://arxiv.org/abs/2501.03775">[Arxiv]</a> <a href="https://github.com/YXB-NKU/Strip-R-CNN">[Code]</a></p>   
+  <h4>Employment effects of corporate technology acquisition: Evidence from patent transfers in China</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li, Yixiang Bai, Chan Wang</p> 
+  <p style="line-height:15px">Technological Forecasting and Social Change, Submit</p>   
+  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/journal/technological-forecasting-and-social-change">[Paper Website]</a> </p>   
   </sub>
 </blockquote>
 
@@ -158,32 +142,20 @@ See my recent publications for more details.
 <span class='anchor' id='-collaborator'></span>
 
 
-## News
-
-+ I received the Doctoral Innovation Awards.
-+ One paper accepted by T-PAMI'24
-+ One paper accepted by CVPR'24
-+ I received the CCF-CV Academic Emerging Scholar Award in 2023.
-+ One paper accepted by ICCV'23
-+ One paper accepted by T-PAMI'23
-+ One paper accepted by CVPR'22
-+ One paper accepted by T-CYB'22
-+ One paper accepted by AAAI'20
-
-<span class='anchor' id='-pub'></span>
-
-## Preprint
 
 ## Academic Services
 
-+ Reviewers for TPAMI/CVPR/NeurIPS/ICML/ICLR etc.
++ Reviewers for International review of financial analysis/Chinese Management Studies/Journal of Cleaner Production/Environmental development/Journal of Business Strategy/Sage Open/Environmental challenges etc.
 
 <span class='anchor' id='-awards'></span>
 
 ## Honors and Awards
 
-+ CCF-CV Academic Emerging Scholar Award, 2023.
-+ National Scholarship for doctoral students, 2024.
++ Doctoral Innovation Award, 2025.
++ Outstanding graduate students, 2025.
++ Outstanding Achievement Award, 2023.
++ Outstanding cadres， 2022.
+
 
 
 
