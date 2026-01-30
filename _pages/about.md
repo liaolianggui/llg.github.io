@@ -74,7 +74,7 @@ See my recent publications for more details.
 ## 中文出版 ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <a4>制度型开放与出口企业动态发展——以标准协调为视角</a4>   
+  <h4>制度型开放与出口企业动态发展——以标准协调为视角</h4>   
   <sub><p style="line-height:15px"> <b>廖梁贵</b>, 李优树</p> 
   <p style="line-height:15px">当代财经, 2026</p>   
   <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk32LqbGpsNBurtQCbUTi5WYenFuMYGnaqjEv8lxRUMf-dUs_zJ7cJ96RiPABwmzcGj4qnM31YAlMTugr5gTdqbLs96X4KpQSdRgytCEAlYGp7rGis6o1lxVcfszGNKFojUvbn9_fecBRW6vjr1FgaLbfiyNMO40oD2cwcrdvBN6lw==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://cfejxufe.magtech.com.cn/CN/cfe/home.shtml" class="redlink">[期刊官网]</a> </p>   
@@ -152,6 +152,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
