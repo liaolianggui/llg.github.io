@@ -22,7 +22,7 @@ redirect_from:
 Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [Youshu Li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor [Wang Chan](https://gsjm.gdufe.edu.cn/2023/0912/c10752a179741/page.htm); and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
-## Professional Experience
+## Education Experience
 
 2023 - now: <b>World Economics</b> - Sichuan University, Chengdu, China
 
@@ -40,37 +40,7 @@ See my recent publications for more details.
 
 <span class='anchor' id='-new'></span>
 
-## News
 
-+ I received the Doctoral Innovation Awards.
-+ One paper accepted by T-PAMI'24
-+ One paper accepted by CVPR'24
-+ I received the CCF-CV Academic Emerging Scholar Award in 2023.
-+ One paper accepted by ICCV'23
-+ One paper accepted by T-PAMI'23
-+ One paper accepted by CVPR'22
-+ One paper accepted by T-CYB'22
-+ One paper accepted by AAAI'20
-
-<span class='anchor' id='-collaborator'></span>
-
-## Collaborator
-
-+ Youshu Li, Sichuan University
-+ Xinwu Li, Nankai University
-+ Bin Chen, Beijing Normal University
-
-+ Pu-yan Nie, Guangdong University of Finance and Economics
-+ Chan Wang, Guangdong University of Finance and Economics
-  
-+ Yixiang Bai, Jinan University
-  
-+ Hongxin Wen, Hunan University of Agriculture
-  
-+ Lin Liu, Northwest Minzu University
-
-
-<span class='anchor' id='-pub'></span>
 
 ## International Publications ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
 
@@ -170,6 +140,38 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
+## Main Collaborator
+
++ Youshu Li, Sichuan University
++ Xinwu Li, Nankai University
++ Bin Chen, Beijing Normal University
+
++ Pu-yan Nie, Guangdong University of Finance and Economics
++ Chan Wang, Guangdong University of Finance and Economics
+  
++ Yixiang Bai, Jinan University
+  
++ Hongxin Wen, Hunan University of Agriculture
+  
++ Lin Liu, Northwest Minzu University
+  
+<span class='anchor' id='-collaborator'></span>
+
+
+## News
+
++ I received the Doctoral Innovation Awards.
++ One paper accepted by T-PAMI'24
++ One paper accepted by CVPR'24
++ I received the CCF-CV Academic Emerging Scholar Award in 2023.
++ One paper accepted by ICCV'23
++ One paper accepted by T-PAMI'23
++ One paper accepted by CVPR'22
++ One paper accepted by T-CYB'22
++ One paper accepted by AAAI'20
+
+<span class='anchor' id='-pub'></span>
+
 ## Preprint
 
 ## Academic Services
@@ -182,6 +184,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
