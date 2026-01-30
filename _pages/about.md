@@ -85,10 +85,10 @@ See my recent publications for more details.
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Localization distillation for object detection</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Rongguang Ye, Qibin Hou#, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
-  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/10052761">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a> </p>   
+  <h4>技术性标准协调的出口增长效应：理论、实证与机制分析</h4>   
+  <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
+  <p style="line-height:15px">世界经济研究,2024</p>   
+  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk32LqbGpsNBurtQCbUTi5WYenFuMYGnaqjkR36V01R_0zC61eYIr9LSjpQ3_JfEOjAI9YkrZ5IQqARHn7EOLcsXvVLSyp8c6Ea8jW78kJq-uN139SWMJCmFtkqxbAPxRPOpjC3Bwg6ITU5NCG7UOeRHoKSJ4I1ms_5hfzHkM8N9zg==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="https://jing.cbpt.cnki.net/portal" class="redlink">[期刊官网]</a> </p>   
   </sub>
 </blockquote>
 
@@ -154,6 +154,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
