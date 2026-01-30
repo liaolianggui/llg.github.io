@@ -24,9 +24,9 @@ Liao Lianggui is currently a doctoral candidate at Sichuan University, under the
 
 ## Professional Experience
 
-2021 - 2025: <b>World Economics</b> - Sichuan University, Chengdu, China
+2023 - now: <b>World Economics</b> - Sichuan University, Chengdu, China
 
-2018 - 2021: <b>Finance</b> - Guangdong University of Finance and Economics, Guangzhou, China
+2020 - 2023: <b>Finance</b> - Guangdong University of Finance and Economics, Guangzhou, China
 
 2015 - 2019: <b>Mechanical Engineering</b> - University of Science and Technology Beijing, Beijing, China
 
@@ -173,6 +173,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
