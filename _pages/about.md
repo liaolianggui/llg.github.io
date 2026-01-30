@@ -19,24 +19,22 @@ redirect_from:
 
 ## About me
 
-Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [youshu li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor Wang Chan; and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
+Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [Youshu Li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor [Wang Chan](https://gsjm.gdufe.edu.cn/2023/0912/c10752a179741/page.htm); and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
 ## Professional Experience
 
-2025 - 202X: <b>Department of Computing</b> - The HK PolyU, Hong Kong, China
+2021 - 2025: <b>Computer science</b> - Sichuan University, Chengdu, China
 
-2021 - 2025: <b>Computer science</b> - Nankai University, Tianjin, China
+2018 - 2021: <b>Finance</b> - Guangdong University of Finance and Economics, Guangzhou, China
 
-2018 - 2021: <b>Computational mathematics</b> - Tianjin University, Tianjin, China
-
-2014 - 2018: <b>Applied mathematics</b> - Zhengzhou University, Zhengzhou, China
+2015 - 2019: <b>Mechanical Engineering</b> - University of Science and Technology Beijing, Beijing, China
 
 <span class='anchor' id='-experience'></span>
 
 ## Research Interests
 
-My research interests are Visual-Language Models, object detection, instance segmentation, and knowledge distillation. 
+My research interests are Heterogeneous trade theory, International trade, Enterprise Development , and Development Economics. 
 
 See my recent publications for more details.
 
@@ -44,7 +42,7 @@ See my recent publications for more details.
 
 ## News
 
-+ I received the National Scholarship for doctoral students.
++ I received the Doctoral Innovation Awards.
 + One paper accepted by T-PAMI'24
 + One paper accepted by CVPR'24
 + I received the CCF-CV Academic Emerging Scholar Award in 2023.
@@ -161,6 +159,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
