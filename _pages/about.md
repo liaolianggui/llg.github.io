@@ -95,7 +95,31 @@ See my recent publications for more details.
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
   <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
-  <p style="line-height:15px">IEEE Transactions on Cybernetics (TCYB), 2022</p>   
+  <p style="line-height:15px">南方经济, 2024</p>   
+  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> <b>ESI Highly Cited Paper</b> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>The health and welfare effects of environmental governance: Evidence from China</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Chan Wang, Xue-mei Zhang, Lu-tong Lin, Bin Chen</p> 
+  <p style="line-height:15px">Environment International, 2024</p>   
+  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S016041202400165X">[Paper Website]</a> <a href="https://www.sciencedirect.com/journal/environment-international" class="redlink">[Journal Website]</a> <b>ESI Highly Cited Paper</b> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
+  <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
+  <p style="line-height:15px">南方经济, 2024</p>   
+  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> <b>ESI Highly Cited Paper</b> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
+  <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
+  <p style="line-height:15px">南方经济, 2024</p>   
   <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> <b>ESI Highly Cited Paper</b> </p>   
   </sub>
 </blockquote>
@@ -154,6 +178,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
