@@ -82,21 +82,12 @@ See my recent publications for more details.
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
-  <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
-  <p style="line-height:15px">南方经济, 2024</p>   
-  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> </p>   
+  <h4>Pollution control and welfare growth: How environmental governance reshapes income inequality through population health improvement</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b>, Youshu Li</p> 
+  <p style="line-height:15px">Journal of cleaner production, 2025</p>   
+  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S0959652625008820">[Paper Website]</a> <a href="[http://www.nanfangjingji.cn/CN/home" class="redlink](https://www.sciencedirect.com/journal/journal-of-cleaner-production)">[Journal Website]</a> </p>   
   </sub>
 </blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
-  <sub><p style="line-height:15px"> <b>廖梁贵*</b>, 李优树</p> 
-  <p style="line-height:15px">南方经济, 2024</p>   
-  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> </p>   
-  </sub>
-</blockquote>
-
 
 ## 中文出版 ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
@@ -181,6 +172,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
