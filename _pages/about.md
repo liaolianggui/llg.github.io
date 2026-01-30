@@ -24,7 +24,7 @@ Liao Lianggui is currently a doctoral candidate at Sichuan University, under the
 
 ## Education Experience
 
-2023 - now: <b>World Economics</b> - Sichuan University, Chengdu, China
+2023 - NOW: <b>World Economics</b> - Sichuan University, Chengdu, China
 
 2020 - 2023: <b>Finance</b> - Guangdong University of Finance and Economics, Guangzhou, China
 
@@ -84,7 +84,7 @@ See my recent publications for more details.
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>技术性标准协调的出口增长效应：理论、实证与机制分析</h4>   
   <sub><p style="line-height:15px"> <b>廖梁贵</b>, 李优树</p> 
-  <p style="line-height:15px">世界经济研究,2024</p>   
+  <p style="line-height:15px">世界经济研究,2025</p>   
   <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk32LqbGpsNBurtQCbUTi5WYenFuMYGnaqjkR36V01R_0zC61eYIr9LSjpQ3_JfEOjAI9YkrZ5IQqARHn7EOLcsXvVLSyp8c6Ea8jW78kJq-uN139SWMJCmFtkqxbAPxRPOpjC3Bwg6ITU5NCG7UOeRHoKSJ4I1ms_5hfzHkM8N9zg==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="https://jing.cbpt.cnki.net/portal" class="redlink">[期刊官网]</a> </p>   
   </sub>
 </blockquote>
@@ -92,7 +92,7 @@ See my recent publications for more details.
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>ESG与企业出口质量升级：理论与经验分析</h4>   
   <sub><p style="line-height:15px"> <b>廖梁贵</b>, 李优树</p> 
-  <p style="line-height:15px">南方经济, 2024</p>   
+  <p style="line-height:15px">南方经济, 2025</p>   
   <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk3CotQqW1tnqEEWDDBMOezLLEt7jLvEg5NtL8HR1Em38PTRqUG8Ozy-tUDigN0MFmdKg7Jhv4csL1zm2gubC03exDO_3_rXHdh5MN-XH1fbTYTFLV2uUXhyISZDOg5GevaO07V6Z2a53n4wUvp6XyWLH7KEtOz6I_qMP9LK9pDESQ==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://www.nanfangjingji.cn/CN/home" class="redlink">[期刊官网]</a> </p>   
   </sub>
 </blockquote>
@@ -155,6 +155,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
