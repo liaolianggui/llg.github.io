@@ -24,7 +24,7 @@ Liao Lianggui is currently a doctoral candidate at Sichuan University, under the
 
 ## Professional Experience
 
-2021 - 2025: <b>Computer science</b> - Sichuan University, Chengdu, China
+2021 - 2025: <b>World Economics</b> - Sichuan University, Chengdu, China
 
 2018 - 2021: <b>Finance</b> - Guangdong University of Finance and Economics, Guangzhou, China
 
@@ -72,7 +72,7 @@ See my recent publications for more details.
 
 <span class='anchor' id='-pub'></span>
 
-## Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en))
+## 中文出版 ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
 #### "*" means first authors  and "#" means corresponding author.
 
@@ -100,6 +100,7 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
+## International Publications ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>The health and welfare effects of environmental governance: Evidence from China</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Chan Wang, Xue-mei Zhang, Lu-tong Lin, Bin Chen</p> 
@@ -178,6 +179,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
