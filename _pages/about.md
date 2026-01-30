@@ -77,10 +77,10 @@ See my recent publications for more details.
 #### "*" means authors contributed equally and "#" means corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Zone Evaluation: Revealing Spatial Bias in Object Detection</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
-  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/10547427">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> </p>   
+  <h4>制度型开放与出口企业动态发展——以标准协调为视角</h4>   
+  <sub><p style="line-height:15px"> <b>廖梁贵</b>, 李优树</p> 
+  <p style="line-height:15px">当代财经, 2026</p>   
+  <p style="line-height:15px"> <a href="https://kns.cnki.net/kcms2/article/abstract?v=OLEU9YGVhk32LqbGpsNBurtQCbUTi5WYenFuMYGnaqjEv8lxRUMf-dUs_zJ7cJ96RiPABwmzcGj4qnM31YAlMTugr5gTdqbLs96X4KpQSdRgytCEAlYGp7rGis6o1lxVcfszGNKFojUvbn9_fecBRW6vjr1FgaLbfiyNMO40oD2cwcrdvBN6lw==&uniplatform=NZKPT&language=CHS">[知网链接]</a> <a href="http://cfejxufe.magtech.com.cn/CN/cfe/home.shtml" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
 
@@ -154,6 +154,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
