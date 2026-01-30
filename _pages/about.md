@@ -103,24 +103,21 @@ See my recent publications for more details.
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>From air pollution governance to health and equity: Evidence from China</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
-  <p style="line-height:15px">Environment and Development Economics, Minor Revision</p>   
-  <p style="line-height:15px"> <a href="https://www.cambridge.org/core/journals/environment-and-development-economics">[Paper Website]</a> </p>   
+  <p style="line-height:15px">Minor Revision</p>   
   </sub>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>From Compliance to Capability: How Environmental Certification Drives Corporate ESG Transformation</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
-  <p style="line-height:15px">Energy & Environment, Minor Revision</p>   
-  <p style="line-height:15px"> <a href="https://uk.sagepub.com/en-gb/asi/energy-environment/journal202462?_gl=1%2A16bgx3p%2A_gcl_au%2AMTA3ODE4ODcxOC4xNzYyOTY4OTQw%2A_ga%2AODkwNDA2MjA0LjE3NjI5Njg5NDA.%2A_ga_60R758KFDG%2AczE3Njk3OTU3OTckbzE4NyRnMSR0MTc2OTc5NTgxNSRqNTkkbDAkaDEyMjA5MDQ4MDc">[Paper Website]</a> </p>   
+  <p style="line-height:15px">R&R</p>   
   </sub>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Employment effects of corporate technology acquisition: Evidence from patent transfers in China</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li, Yixiang Bai, Chan Wang</p> 
-  <p style="line-height:15px">Technological Forecasting and Social Change, Submit</p>   
-  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/journal/technological-forecasting-and-social-change">[Paper Website]</a> </p>   
+  <p style="line-height:15px">Submit</p>   
   </sub>
 </blockquote>
 
@@ -155,6 +152,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
