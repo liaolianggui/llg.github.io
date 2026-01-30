@@ -104,7 +104,7 @@ See my recent publications for more details.
   <h4>From air pollution governance to health and equity: Evidence from China</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
   <p style="line-height:15px">Environment and Development Economics, Minor Revision</p>   
-  <p style="line-height:15px"> <a href="">[Arxiv]</a> <a href="https://www.cambridge.org/core/journals/environment-and-development-economics">[Paper Website]</a> </p>   
+  <p style="line-height:15px"> <a href="https://www.cambridge.org/core/journals/environment-and-development-economics">[Paper Website]</a> </p>   
   </sub>
 </blockquote>
 
@@ -184,6 +184,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
