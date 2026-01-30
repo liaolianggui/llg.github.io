@@ -77,10 +77,10 @@ See my recent publications for more details.
 #### "*" means first authors  and "#" means corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>The health and welfare effects of environmental governance: Evidence from China</h4>   
-  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Chan Wang, Xue-mei Zhang, Lu-tong Lin, Bin Chen</p> 
-  <p style="line-height:15px">Environment International, 2024</p>   
-  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S016041202400165X">[Paper Website]</a> <a href="https://www.sciencedirect.com/journal/environment-international" class="redlink">[Journal Website]</a> </p>   
+  <h4>Environmental, social and governance assets: quality of public firm exports</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Youshu Li</p> 
+  <p style="line-height:15px">Environment International, 2025</p>   
+  <p style="line-height:15px"> <a href="https://www.emerald.com/md/article-abstract/doi/10.1108/MD-03-2025-0590/1316486/Environmental-social-and-governance-assets-quality?redirectedFrom=fulltext">[Paper Website]</a> <a href="https://www.emerald.com/md">[Journal Website]</a> </p>   
   </sub>
 </blockquote>
 
@@ -91,6 +91,15 @@ See my recent publications for more details.
   <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S0959652625008820">[Paper Website]</a> <a href="[http://www.nanfangjingji.cn/CN/home" class="redlink](https://www.sciencedirect.com/journal/journal-of-cleaner-production)">[Journal Website]</a> </p>   
   </sub>
 </blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>The health and welfare effects of environmental governance: Evidence from China</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Chan Wang, Xue-mei Zhang, Lu-tong Lin, Bin Chen</p> 
+  <p style="line-height:15px">Environment International, 2024</p>   
+  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S016041202400165X">[Paper Website]</a> <a href="https://www.sciencedirect.com/journal/environment-international" class="redlink">[Journal Website]</a> </p>   
+  </sub>
+</blockquote>
+
 
 ## 中文出版 ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
@@ -173,6 +182,7 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
 
