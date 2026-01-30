@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaohui Zheng"
-description              : "Computer Vision, Object Detection"
-repository               : "Zzh-tju/Zzh-tju.github.io"
+title                    : "Lianggui Liao"
+description              : "International Economics, Development Economics"
+repository               : "liaolianggui/liaolianggui.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaohui Zheng (郑兆晖)"
+  name             : "Lianggui Liao (廖梁贵)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Nankai University"
   location         : "Tianjin, China"
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
