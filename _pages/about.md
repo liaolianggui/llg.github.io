@@ -43,18 +43,18 @@ See my recent publications for more details.
 #### <b>*</b> means first authors  and <b>#</b> means corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Environmental, social and governance assets: quality of public firm exports</h4>   
-  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b>, Youshu Li</p> 
-  <p style="line-height:15px">Environment International, 2025</p>   
-  <p style="line-height:15px"> <a href="https://www.emerald.com/md/article-abstract/doi/10.1108/MD-03-2025-0590/1316486/Environmental-social-and-governance-assets-quality?redirectedFrom=fulltext">[Paper Website]</a> <a href="https://www.emerald.com/md">[Journal Website]</a> </p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Pollution control and welfare growth: How environmental governance reshapes income inequality through population health improvement</h4>   
   <sub><p style="line-height:15px"> <b>Lianggui Liao*</b>, Youshu Li</p> 
   <p style="line-height:15px">Journal of cleaner production, 2025</p>   
   <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S0959652625008820">[Paper Website]</a> <a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production">[Journal Website]</a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Environmental, social and governance assets: quality of public firm exports</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b>, Youshu Li</p> 
+  <p style="line-height:15px">Management Decision,2025</p>   
+  <p style="line-height:15px"> <a href="https://www.emerald.com/md/article-abstract/doi/10.1108/MD-03-2025-0590/1316486/Environmental-social-and-governance-assets-quality?redirectedFrom=fulltext">[Paper Website]</a> <a href="https://www.emerald.com/md">[Journal Website]</a> </p>   
   </sub>
 </blockquote>
 
@@ -160,6 +160,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
