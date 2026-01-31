@@ -63,11 +63,18 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>The health and welfare effects of environmental governance: Evidence from China</h4>   
-  <sub><p style="line-height:15px"> <b>Lianggui Liao#</b>, Chan Wang, Xue-mei Zhang, Lu-tong Lin, Bin Chen</p> 
-  <p style="line-height:15px">Environment International, 2024</p>   
-  <p style="line-height:15px"> <a href="https://www.sciencedirect.com/science/article/pii/S016041202400165X">[Paper Website]</a> <a href="https://www.sciencedirect.com/journal/environment-international" class="redlink">[Journal Website]</a> </p>   
+  <sub>
+    <p style="line-height:15px">
+      Chan Wang, <b>Lianggui Liao#</b>, Xue-mei Zhang, Lu-tong Lin, Bin Chen
+    </p>
+    <p style="line-height:15px">Environment International, 2024</p>   
+    <p style="line-height:15px">
+      <a href="https://www.sciencedirect.com/science/article/pii/S016041202400165X">[Paper Website]</a>
+      <a href="https://www.sciencedirect.com/journal/environment-international" class="redlink">[Journal Website]</a>
+    </p>   
   </sub>
 </blockquote>
+
 
 
 ## **中文出版** ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
@@ -158,6 +165,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
