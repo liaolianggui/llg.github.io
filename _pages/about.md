@@ -43,7 +43,7 @@ See my recent publications for more details.
 
 ## **International Publications** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
 
-#### "*" means first authors  and "#" means corresponding author.
+#### <b>*</b> means first authors  and <b>#</b> means corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Environmental, social and governance assets: quality of public firm exports</h4>   
@@ -165,6 +165,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
