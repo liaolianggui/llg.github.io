@@ -73,7 +73,7 @@ See my recent publications for more details.
 </blockquote>
 
 
-<span class='anchor' id='中文出版'></span>
+<span class='anchor' id='Chinese-Publications'></span>
 ## **中文出版** ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
 <blockquote class="pub-cn" style="color: black; border-width: 8px; border-color: orange;">
@@ -160,6 +160,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
