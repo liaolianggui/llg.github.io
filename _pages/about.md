@@ -15,12 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='About-me'></span>
 ## **About me**
 
 Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [Youshu Li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor [Wang Chan](https://gsjm.gdufe.edu.cn/2023/0912/c10752a179741/page.htm); and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
 
-<span class='anchor' id='-experience'></span>
+<span class='anchor' id='Education-Experience'></span>
 ## **Education Experience**
 
 2023 - NOW: <b>World Economics</b> - Sichuan University, Chengdu, China
@@ -29,7 +29,7 @@ Liao Lianggui is currently a doctoral candidate at Sichuan University, under the
 
 2015 - 2019: <b>Mechanical Engineering</b> - University of Science and Technology Beijing, Beijing, China
 
-<span class='anchor' id='-interests'></span>
+<span class='anchor' id='Research-Interests'></span>
 ## **Research Interests**
 
 My research interests are Heterogeneous trade theory, International trade, Enterprise Development , and Development Economics. 
@@ -37,7 +37,7 @@ My research interests are Heterogeneous trade theory, International trade, Enter
 See my recent publications for more details.
 
 
-<span class='anchor' id='-publications1'></span>
+<span class='anchor' id='International-Publications'></span>
 ## **International Publications** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
 
 #### <b>*</b> means first authors  and <b>#</b> means corresponding author.
@@ -73,7 +73,7 @@ See my recent publications for more details.
 </blockquote>
 
 
-='anchor' id='-publications2'></span>
+<span class='anchor' id='中文出版'></span>
 ## **中文出版** ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
 <blockquote class="pub-cn" style="color: black; border-width: 8px; border-color: orange;">
@@ -100,7 +100,7 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
-<span class='anchor' id='-workingpaper'></span>
+<span class='anchor' id='Working-Paper'></span>
 ## **Working Paper** 
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
@@ -131,7 +131,7 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
-<span class='anchor' id='-collaborator'></span>
+<span class='anchor' id='Main-Collaborator'></span>
 ## **Main Collaborator**
 
 + Youshu Li, Sichuan University
@@ -147,19 +147,20 @@ See my recent publications for more details.
   
 + Lin Liu, Northwest Minzu University
   
-<span class='anchor' id='-services'></span>
+<span class='anchor' id='Academic-Services'></span>
 ## **Academic Services**
 
 + Reviewers for International review of financial analysis/Chinese Management Studies/Journal of Cleaner Production/Environmental development/Journal of Business Strategy/Sage Open/Environmental challenges etc.
 
 
-<span class='anchor' id='-awards'></span>
+<span class='anchor' id='Honors&Awards'></span>
 ## **Honors and Awards**
 
 + Doctoral Innovation Award, 2025.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
