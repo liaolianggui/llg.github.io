@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About me
+## **About me**
 
 Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [Youshu Li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor [Wang Chan](https://gsjm.gdufe.edu.cn/2023/0912/c10752a179741/page.htm); and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
 
-## Education Experience
+## **Education Experience**
 
 2023 - NOW: <b>World Economics</b> - Sichuan University, Chengdu, China
 
@@ -31,7 +31,7 @@ Liao Lianggui is currently a doctoral candidate at Sichuan University, under the
 
 <span class='anchor' id='-experience'></span>
 
-## Research Interests
+## **Research Interests**
 
 My research interests are Heterogeneous trade theory, International trade, Enterprise Development , and Development Economics. 
 
@@ -41,7 +41,7 @@ See my recent publications for more details.
 
 
 
-## International Publications ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
+## **International Publications** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wyZpdUcAAAAJ&authuser=1&scilu=&scisig=APR7AgUAAAAAaXy8HrCNwDKaMmTQHfTfcwGcv1U&gmla=APjjwubRBJGjBBFoKkBoSNYYZthOaEk8ngU_VwNAU6TgSYiiD9gO0NJerlzTYPQGgfJ8WLSexSg5VHL-hT2lUOjl_Wnwjrdr7she6u6LFfB64x9uQjA&sciund=3248985779422380435))
 
 #### "*" means first authors  and "#" means corresponding author.
 
@@ -70,7 +70,7 @@ See my recent publications for more details.
 </blockquote>
 
 
-## 中文出版 ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
+## **中文出版** ([知网学术主页](https://au.cnki.net/author/personalInfo/000058146930?platform=kns-author))
 
 <blockquote class="pub-cn" style="color: black; border-width: 8px; border-color: orange;">
   <h4>技术性标准协调的出口增长效应：理论、实证与机制分析</h4>   
@@ -97,7 +97,7 @@ See my recent publications for more details.
 </blockquote>
 
 
-## Working Paper 
+## **Working Paper** 
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>From air pollution governance to health and equity: Evidence from China</h4>   
@@ -127,7 +127,7 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
-## Main Collaborator
+## **Main Collaborator**
 
 + Youshu Li, Sichuan University
 + Xinwu Li, Nankai University
@@ -146,18 +146,19 @@ See my recent publications for more details.
 
 
 
-## Academic Services
+## **Academic Services**
 
 + Reviewers for International review of financial analysis/Chinese Management Studies/Journal of Cleaner Production/Environmental development/Journal of Business Strategy/Sage Open/Environmental challenges etc.
 
 <span class='anchor' id='-awards'></span>
 
-## Honors and Awards
+## **Honors and Awards**
 
 + Doctoral Innovation Award, 2025.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
