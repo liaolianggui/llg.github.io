@@ -1,22 +1,26 @@
 # main links links
 main:
   - title: "About me"
-    url: "/#about-me"
+    url: "/#About-me"
 
   - title: "Education"
-    url: "/#-education"
+    url: "Education-Experience"
     
-  - title: "News"
-    url: "/#-new"
+  - title: "Research Interests"
+    url: "Research-Interests"
 
-  - title: "Collaborator"
-    url: "/#-collaborator"
+  - title: "International Publications"
+    url: "International-Publications"
 
-  - title: "Publications"
-    url: "/#-pub"
+  - title: "中文出版"
+    url: "中文出版"
 
+  - title: "Working Paper"
+    url: "Working-Paper"
+    
   - title: "Academic Services"
-    url: "/#-services"
+    url: "Academic-Services"
 
   - title: "Honors & Awards"
-    url: "/#-awards"
+    url: "Honors&Awards"
+
