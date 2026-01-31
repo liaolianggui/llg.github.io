@@ -13,7 +13,7 @@ main:
     url: "/#International-Publications"
 
   - title: "中文出版"
-    url: "/#中文出版"
+    url: "/#Chinese-Publications"
 
   - title: "Working Paper"
     url: "/#Working-Paper"
@@ -23,3 +23,4 @@ main:
 
   - title: "Honors & Awards"
     url: "/#Honors-Awards"
+
