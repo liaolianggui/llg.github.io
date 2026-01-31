@@ -27,7 +27,7 @@ author:
   location         : "Chengdu, China"
   employer         : #"Nankai University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0X71NDYAAAAJ"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=wyZpdUcAAAAJ&hl=zh-CN&authuser=1"
   email            : "lianggui_liao@stu.scu.edu.cn"
   researchgate     : 
   uri              : 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
