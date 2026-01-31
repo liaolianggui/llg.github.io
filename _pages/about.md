@@ -153,13 +153,14 @@ See my recent publications for more details.
 + Reviewers for International review of financial analysis/Chinese Management Studies/Journal of Cleaner Production/Environmental development/Journal of Business Strategy/Sage Open/Environmental challenges etc.
 
 
-<span class='anchor' id='Honors&Awards'></span>
+<span class='anchor' id='Honors-Awards'></span>
 ## **Honors and Awards**
 
 + Doctoral Innovation Award, 2025.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
