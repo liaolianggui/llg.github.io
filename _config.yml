@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lianggui Liao \n (廖梁贵)"
+  name_en          : "Lianggui Liao"
+  name_zh          : "廖梁贵"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Sichuan University"
   location         : "Chengdu, China"
@@ -161,6 +162,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
