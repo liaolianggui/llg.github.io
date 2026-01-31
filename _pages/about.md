@@ -20,7 +20,6 @@ redirect_from:
 ## About me
 
 Liao Lianggui is currently a doctoral candidate at Sichuan University, under the supervision of Prof. [Youshu Li](https://sesu.scu.edu.cn/info/1176/3571.htm), specializing in international economics and development economics. Previously, he received his master's degree from Guangdong University of Finance and Economics in 2023, under the supervision of Professor [Wang Chan](https://gsjm.gdufe.edu.cn/2023/0912/c10752a179741/page.htm); and his bachelor's degree in engineering from Beijing University of Science and Technology in 2019, under the supervision of Professor Ren Xiaojun.
- <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
 ## Education Experience
 
@@ -121,6 +120,13 @@ See my recent publications for more details.
   </sub>
 </blockquote>
 
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>How Standards Harmonization Causes the Dilemma of Technical Barriers to Trade—Evidence from Chinese Exports</h4>   
+  <sub><p style="line-height:15px"> <b>Lianggui Liao*</b> Youshu Li</p> 
+  <p style="line-height:15px">Writing</p>   
+  </sub>
+</blockquote>
+
 ## Main Collaborator
 
 + Youshu Li, Sichuan University
@@ -152,6 +158,7 @@ See my recent publications for more details.
 + Outstanding graduate students, 2025.
 + Outstanding Achievement Award, 2023.
 + Outstanding cadres， 2022.
+
 
 
 
